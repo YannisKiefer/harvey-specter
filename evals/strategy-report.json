@@ -1,0 +1,321 @@
+{
+  "method": "epsilon-greedy tabular contextual bandit with deterministic task rewards",
+  "scope": "structured move selection only; no language-model training or style score",
+  "training_environments": "48 seed rows plus randomized synthetic contexts; not natural-language learning",
+  "seed": 17,
+  "episodes": 24000,
+  "dataset_sha256": "df06aa807890bd6e7afcf499c6276985128b07c3d0068c834e1c56ca160d60e9",
+  "accepted": true,
+  "baseline_validation": {
+    "passed": 2,
+    "total": 12,
+    "cases": [
+      {
+        "id": "steady-09",
+        "expected": "steady",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "steady-10",
+        "expected": "steady",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "repair-09",
+        "expected": "repair",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "repair-10",
+        "expected": "repair",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "boundary-09",
+        "expected": "boundary",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "boundary-10",
+        "expected": "boundary",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "discover-09",
+        "expected": "discover",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "discover-10",
+        "expected": "discover",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "walk-09",
+        "expected": "walk",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "walk-10",
+        "expected": "walk",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "negotiate-09",
+        "expected": "negotiate",
+        "actual": "negotiate",
+        "passed": true
+      },
+      {
+        "id": "negotiate-10",
+        "expected": "negotiate",
+        "actual": "negotiate",
+        "passed": true
+      }
+    ]
+  },
+  "candidate_validation": {
+    "passed": 12,
+    "total": 12,
+    "cases": [
+      {
+        "id": "steady-09",
+        "expected": "steady",
+        "actual": "steady",
+        "passed": true
+      },
+      {
+        "id": "steady-10",
+        "expected": "steady",
+        "actual": "steady",
+        "passed": true
+      },
+      {
+        "id": "repair-09",
+        "expected": "repair",
+        "actual": "repair",
+        "passed": true
+      },
+      {
+        "id": "repair-10",
+        "expected": "repair",
+        "actual": "repair",
+        "passed": true
+      },
+      {
+        "id": "boundary-09",
+        "expected": "boundary",
+        "actual": "boundary",
+        "passed": true
+      },
+      {
+        "id": "boundary-10",
+        "expected": "boundary",
+        "actual": "boundary",
+        "passed": true
+      },
+      {
+        "id": "discover-09",
+        "expected": "discover",
+        "actual": "discover",
+        "passed": true
+      },
+      {
+        "id": "discover-10",
+        "expected": "discover",
+        "actual": "discover",
+        "passed": true
+      },
+      {
+        "id": "walk-09",
+        "expected": "walk",
+        "actual": "walk",
+        "passed": true
+      },
+      {
+        "id": "walk-10",
+        "expected": "walk",
+        "actual": "walk",
+        "passed": true
+      },
+      {
+        "id": "negotiate-09",
+        "expected": "negotiate",
+        "actual": "negotiate",
+        "passed": true
+      },
+      {
+        "id": "negotiate-10",
+        "expected": "negotiate",
+        "actual": "negotiate",
+        "passed": true
+      }
+    ]
+  },
+  "baseline_test": {
+    "passed": 2,
+    "total": 12,
+    "cases": [
+      {
+        "id": "steady-11",
+        "expected": "steady",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "steady-12",
+        "expected": "steady",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "repair-11",
+        "expected": "repair",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "repair-12",
+        "expected": "repair",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "boundary-11",
+        "expected": "boundary",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "boundary-12",
+        "expected": "boundary",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "discover-11",
+        "expected": "discover",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "discover-12",
+        "expected": "discover",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "walk-11",
+        "expected": "walk",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "walk-12",
+        "expected": "walk",
+        "actual": "negotiate",
+        "passed": false
+      },
+      {
+        "id": "negotiate-11",
+        "expected": "negotiate",
+        "actual": "negotiate",
+        "passed": true
+      },
+      {
+        "id": "negotiate-12",
+        "expected": "negotiate",
+        "actual": "negotiate",
+        "passed": true
+      }
+    ]
+  },
+  "selected_test": {
+    "passed": 12,
+    "total": 12,
+    "cases": [
+      {
+        "id": "steady-11",
+        "expected": "steady",
+        "actual": "steady",
+        "passed": true
+      },
+      {
+        "id": "steady-12",
+        "expected": "steady",
+        "actual": "steady",
+        "passed": true
+      },
+      {
+        "id": "repair-11",
+        "expected": "repair",
+        "actual": "repair",
+        "passed": true
+      },
+      {
+        "id": "repair-12",
+        "expected": "repair",
+        "actual": "repair",
+        "passed": true
+      },
+      {
+        "id": "boundary-11",
+        "expected": "boundary",
+        "actual": "boundary",
+        "passed": true
+      },
+      {
+        "id": "boundary-12",
+        "expected": "boundary",
+        "actual": "boundary",
+        "passed": true
+      },
+      {
+        "id": "discover-11",
+        "expected": "discover",
+        "actual": "discover",
+        "passed": true
+      },
+      {
+        "id": "discover-12",
+        "expected": "discover",
+        "actual": "discover",
+        "passed": true
+      },
+      {
+        "id": "walk-11",
+        "expected": "walk",
+        "actual": "walk",
+        "passed": true
+      },
+      {
+        "id": "walk-12",
+        "expected": "walk",
+        "actual": "walk",
+        "passed": true
+      },
+      {
+        "id": "negotiate-11",
+        "expected": "negotiate",
+        "actual": "negotiate",
+        "passed": true
+      },
+      {
+        "id": "negotiate-12",
+        "expected": "negotiate",
+        "actual": "negotiate",
+        "passed": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "scope": "structured synthetic policy generalization, not natural language or style",
+  "seed": 17,
+  "episodes": 24000,
+  "trained_on": {
+    "train": 48
+  },
+  "stress_total": 1408,
+  "stress_passed": 1408,
+  "stress_failed": 0,
+  "expected_counts": {
+    "discover": 88,
+    "negotiate": 56,
+    "walk": 32,
+    "boundary": 176,
+    "repair": 352,
+    "steady": 704
+  },
+  "failure_pairs": {},
+  "first_failures": [],
+  "oracle_contract_failures": 0,
+  "train_heldout_independence": true,
+  "unique_contexts": {
+    "train": 33,
+    "validation": 11,
+    "test": 12
+  },
+  "train_context_overlap": {
+    "validation": 5,
+    "test": 8
+  },
+  "invalid_fact_checks_passed": 10,
+  "invalid_fact_checks_total": 10,
+  "corpus_checks": {
+    "repeated_genuine_utterances_counted": true,
+    "same_id_exact_duplicates_skipped": true,
+    "repeated_tags_count_once_per_line": true,
+    "dialogue_and_episode_not_exported": true,
+    "cli_success_private": true,
+    "conflicting_id_rejected_private": true,
+    "malformed_0_rejected_private": true,
+    "malformed_1_rejected_private": true,
+    "malformed_2_rejected_private": true,
+    "malformed_3_rejected_private": true,
+    "malformed_4_rejected_private": true,
+    "missing_input_private_error": true,
+    "invalid_unicode_private_error": true
+  },
+  "invalid_policy_checks_passed": 4,
+  "invalid_policy_checks_total": 4,
+  "output_error_safe": true
+}
