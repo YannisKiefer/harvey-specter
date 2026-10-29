@@ -7,10 +7,10 @@
 Prepare the leverage. Read the room. Make the next move count.
 
 [![Checks](https://github.com/YannisKiefer/harvey-specter/actions/workflows/checks.yml/badge.svg)](https://github.com/YannisKiefer/harvey-specter/actions/workflows/checks.yml)
-[![MIT](https://img.shields.io/badge/license-MIT-c7a66a)](LICENSE)
-[![Agent Skills](https://img.shields.io/badge/format-SKILL.md-172333)](https://agentskills.io/specification)
+[![MIT](https://img.shields.io/badge/license-MIT-b7eb83)](LICENSE)
+[![Agent Skills](https://img.shields.io/badge/format-SKILL.md-1c1e1b)](https://agentskills.io/specification)
 
-[Install](#install) · [Try it](#try-it) · [The method](#the-method) · [Evidence](docs/EVALUATION.md) · [Sources](docs/SOURCES.md)
+[Install](#install) · [Try it](#try-it) · [The method](#the-method) · [Evidence](docs/EVALUATION.md) · [Brand assets](assets/brand/README.md)
 
 </div>
 

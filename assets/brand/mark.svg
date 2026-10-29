@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 112" fill="none" role="img" aria-labelledby="title">
+  <title id="title">SPECTER segmented S mark</title>
+  <g fill="#1c1e1b">
+    <rect x="24" y="8" width="80" height="12" rx="6"/>
+    <rect x="8" y="26" width="32" height="12" rx="6"/>
+    <rect x="8" y="44" width="64" height="12" rx="6"/>
+    <rect x="40" y="62" width="64" height="12" rx="6"/>
+    <rect x="72" y="80" width="32" height="12" rx="6"/>
+    <rect x="8" y="98" width="80" height="12" rx="6"/>
+  </g>
+</svg>
