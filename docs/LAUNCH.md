@@ -46,7 +46,7 @@ GitHub stars, unique clones, genuine installs, external referrals, and contribut
 
 The [identity02 release](https://github.com/YannisKiefer/harvey-specter/releases/tag/v1.0.1) supplies an original segmented S mark, lowercase wordmark, warm paper/ink palette, a soft lime/apricot banner, social cover, and editable vector assets. The published GitHub README was checked on desktop and mobile with all images loaded and no horizontal overflow. [Brand assets](../assets/brand/README.md) include the usable masters and usage guide.
 
-The expanded research screened275 canonical public projects and retained199 direct or adjacent category-fit prospects:17large (10k+stars),20mid-size (1k-9,999),162small. Seventy-six candidates were excluded. These are source-backed prospects, not199submission-ready communities,150accepted placements, or a reach guarantee. Gates and unknown rules remain explicit; archived repositories and AI-submission bans are not bypassed.
+The expanded research screened 275 canonical public projects and retained 199 direct or adjacent category-fit prospects: 17 large (10k+ stars),20 mid-size (1k-9,999),162 small. Seventy-six candidates were excluded. These are source-backed prospects, not 199 submission-ready communities,150 accepted placements, or a reach guarantee. Gates and unknown rules remain explicit; archived repositories and AI-submission bans are not bypassed.
 
 The actual submission count is **20**, including the original Ezeafk request. At the recorded refresh: **20 open, 0 closed unmerged, 0 merged**. Each contribution follows the target format, discloses source ownership/AI assistance, and links the bounded evidence.
 
