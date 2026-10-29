@@ -12,7 +12,7 @@ Release evaluation, October 29, 2026. The skill, learned policy, and determinist
 | Independent structural grid | Raw policy 1,408/1,408; guard function 1,408/1,408 | 128 Boolean contexts across 11 price regimes, including mixed priorities and numeric edges. This is a regression check of the finite abstraction. |
 | Actual predict CLI guard checks | 3/3 | Empty, maliciously biased, and correct policies produce the rule-contract move with a truthful override trace. |
 | Independent natural-language review | 12 initial cases and 4 character-engine cases exercised | Recorded prompts, generated responses, and qualitative assessments in one reviewing-agent context. |
-| Skill package | Frontmatter validated; local skills-CLI installation succeeded | Structural validity and a real installer path, not universal harness behavior. |
+| Skill package | Frontmatter validated; local and public-GitHub skills-CLI installations succeeded | Structural validity and a real installer path, not universal harness behavior. |
 
 The [recorded strategy run](../evals/strategy-report.json), [behavioral cases](BEHAVIOR.md), and [final independent review](REVIEW.md) contain the evidence and limitations. CI runs the automated checks on the actual published commit.
 

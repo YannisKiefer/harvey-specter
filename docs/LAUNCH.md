@@ -15,7 +15,7 @@ These projects serve different purposes. No evidence here establishes that SPECT
 
 ## Release actions
 
-The launch consists of a public repository, a usable skill package, source-backed positioning, original artwork, CI, reproducible evaluations, a tagged release, relevant repository topics, a community case invitation, and a focused directory submission where contribution rules permit it. Actual completion and upstream acceptance are separate; see the release and linked launch issue for current receipts.
+The launch consists of a public repository, a usable skill package, source-backed positioning, original artwork, CI, reproducible evaluations, a tagged release, relevant repository topics, a community case invitation, and a focused directory submission where contribution rules permit it. Actual completion and upstream acceptance are separate; the verified launch receipts are linked below.
 
 The promotion angle is concrete: **the same agent should know when to negotiate, apologize, investigate, or simply listen.** Demonstrations should include a price objection, a mistake, and a vulnerable person. Share the relevant example and evaluation limits together.
 
@@ -32,3 +32,12 @@ No star purchases, reciprocal-star schemes, bots posing as users, repetitive sel
 Collect de-identified failure cases with the model, harness, prompt, actual answer, and expected property. Reproduce the failure, improve the smallest relevant instruction, and rerun relevant cases plus a fresh independent case. Keep fidelity and practical quality separate. Publish observed results and rejected candidates; do not rewrite the benchmark to make a score look better.
 
 GitHub stars, unique clones, genuine installs, external referrals, and contributed cases can describe reach once observed. They do not prove better decisions. Virality and directory acceptance cannot be guaranteed.
+
+## Observed launch receipts
+
+- [v1.0.0 release and standalone skill ZIP](https://github.com/YannisKiefer/harvey-specter/releases/tag/v1.0.0). The ZIP was integrity-checked and its uploaded SHA-256 matches the local package.
+- [First public CI run](https://github.com/YannisKiefer/harvey-specter/actions/runs/40960335390): all unit, training, structural stress, and diff checks passed.
+- Public GitHub installation through the skills CLI succeeded in an isolated project directory; all installed skill/reference files matched the repository byte for byte. Telemetry was disabled during tests; no install-ranking claim is made.
+- [Community case discussion](https://github.com/YannisKiefer/harvey-specter/discussions/1) is live.
+- [Ezeafk directory PR #74](https://github.com/Ezeafk/awesome-agent-skills/pull/74) was submitted with one table row, AI/owner disclosure, an explicit self-assessment, links to actual evidence, and the limits. It is open; maintainer acceptance and upstream full-link CI are not claimed.
+- Relevant topics are set in repository settings, not only mentioned in copy. No social posts outside GitHub, paid promotion, or recurring posting jobs were created.
