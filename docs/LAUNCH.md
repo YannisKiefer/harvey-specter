@@ -41,3 +41,36 @@ GitHub stars, unique clones, genuine installs, external referrals, and contribut
 - [Community case discussion](https://github.com/YannisKiefer/harvey-specter/discussions/1) is live.
 - [Ezeafk directory PR #74](https://github.com/Ezeafk/awesome-agent-skills/pull/74) was submitted with one table row, AI/owner disclosure, an explicit self-assessment, links to actual evidence, and the limits. It is open; maintainer acceptance and upstream full-link CI are not claimed.
 - Relevant topics are set in repository settings, not only mentioned in copy. No social posts outside GitHub, paid promotion, or recurring posting jobs were created.
+
+## Identity 02 and expanded launch
+
+The [identity02 release](https://github.com/YannisKiefer/harvey-specter/releases/tag/v1.0.1) supplies an original segmented S mark, lowercase wordmark, warm paper/ink palette, a soft lime/apricot banner, social cover, and editable vector assets. The published GitHub README was checked on desktop and mobile with all images loaded and no horizontal overflow. [Brand assets](../assets/brand/README.md) include the usable masters and usage guide.
+
+The expanded research screened275 canonical public projects and retained199 direct or adjacent category-fit prospects:17large (10k+stars),20mid-size (1k-9,999),162small. Seventy-six candidates were excluded. These are source-backed prospects, not199submission-ready communities,150accepted placements, or a reach guarantee. Gates and unknown rules remain explicit; archived repositories and AI-submission bans are not bypassed.
+
+The actual submission count is **20**, including the original Ezeafk request. At the recorded refresh: **20 open, 0 closed unmerged, 0 merged**. Each contribution follows the target format, discloses source ownership/AI assistance, and links the bounded evidence.
+
+| Community | Submitted contribution |
+| --- | --- |
+| 6missedcalls/awesome-agent-skills | [PR 20](https://github.com/6missedcalls/awesome-agent-skills/pull/20) |
+| alihesari/awesome-agent-skills | [PR 3](https://github.com/alihesari/awesome-agent-skills/pull/3) |
+| BehiSecc/awesome-claude-skills | [PR 1100](https://github.com/BehiSecc/awesome-claude-skills/pull/1100) |
+| composio-community/awesome-codex-skills | [PR 393](https://github.com/composio-community/awesome-codex-skills/pull/393) |
+| Ezeafk/awesome-agent-skills | [PR 74](https://github.com/Ezeafk/awesome-agent-skills/pull/74) |
+| gmh5225/awesome-skills | [PR 131](https://github.com/gmh5225/awesome-skills/pull/131) |
+| iskandaryv/awesome-claude-skills | [PR 3](https://github.com/iskandaryv/awesome-claude-skills/pull/3) |
+| kenryu42/awesome-claude-skills | [PR 37](https://github.com/kenryu42/awesome-claude-skills/pull/37) |
+| milad-ahmd/awesome-agent-skills | [PR 1](https://github.com/milad-ahmd/awesome-agent-skills/pull/1) |
+| MoizIbnYousaf/ai-agent-skills | [PR 32](https://github.com/MoizIbnYousaf/ai-agent-skills/pull/32) |
+| momozi1996/awesome-ai-persona-skills | [PR 14](https://github.com/momozi1996/awesome-ai-persona-skills/pull/14) |
+| ningzimu/awesome-skills | [PR 17](https://github.com/ningzimu/awesome-skills/pull/17) |
+| nveyret/awesome-claude-skills-devmarketing | [PR 5](https://github.com/nveyret/awesome-claude-skills-devmarketing/pull/5) |
+| ozankasikci/awesome-claude-skills | [PR 5](https://github.com/ozankasikci/awesome-claude-skills/pull/5) |
+| sandipan1/awesome-claude-skills | [PR 30](https://github.com/sandipan1/awesome-claude-skills/pull/30) |
+| sickn33/agentic-awesome-skills | [PR 2192](https://github.com/sickn33/agentic-awesome-skills/pull/2192) |
+| tentenco/awesome-agent-skills-for-solo-founders | [PR 4](https://github.com/tentenco/awesome-agent-skills-for-solo-founders/pull/4) |
+| tmstack/awesome-persona-skills | [PR 31](https://github.com/tmstack/awesome-persona-skills/pull/31) |
+| truefoundry/awesome-skills-registry | [PR 31](https://github.com/truefoundry/awesome-skills-registry/pull/31) |
+| yzfly/awesome-skills-zh | [PR 50](https://github.com/yzfly/awesome-skills-zh/pull/50) |
+
+The sickn33 source bundle passed its complete local seven-check contributor preflight. Its upstream security/license checks passed, while a Vercel contributor-authorization check remains failed; no authorization bypass or deployment retry was attempted. The Moiz library snapshot passed catalog/package/install checks; its full test suite retained three identical pre-existing baseline failures, disclosed in that PR. Submission, local proof, upstream CI, maintainer review, and acceptance remain distinct.
